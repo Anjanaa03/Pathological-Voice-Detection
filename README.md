@@ -1,2 +1,2 @@
 ### Pathological-Voice-Detection
-##### Voice-Pathology-Detection using the Tensorflow, keras and librosa library of python. Source_code.ipynb is the Required code for the given project  
+##### Voice-Pathology-Detection using the Tensorflow, Keras and Librosa library of python. Source_code.ipynb contains the required code for the given project  
